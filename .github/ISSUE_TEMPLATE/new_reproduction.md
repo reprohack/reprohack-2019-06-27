@@ -1,3 +1,8 @@
+---
+title: 'Submit new Paper Reproduction'
+labels: reproduction
+---
+
 # Paper title:
 
 ## description:
