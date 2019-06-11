@@ -96,7 +96,7 @@ Benefits to the whole research community:
 
 - Evaluation of how successful current practices are and for what purpose.
 
-- Identification pf what works and where the most pressing weaknessess in our approaches are.
+- Identification of what works and where the most pressing weaknessess in our approaches are.
 
 <br>
 
@@ -111,7 +111,7 @@ Here's a few potential directions:
 
 - **Ability to sample from the literature.**: A call for papers doesn’t scale well and biases any data on reproducibility generated. It would be great to have a tool to sample the literature for papers to reproduce.
 
-- **ReScience Submission Templates**: improvements in reproducbility might open the door for deeper treatment of materials and potentially moving towards replications. It would be great to provide a framework to submit work done during a ReproHack to the [**ReScience**](http://rescience.github.io/) journal.
+- **ReScience Submission Templates**: improvements in reproducibility might open the door for deeper treatment of materials and potentially moving towards replications. It would be great to provide a framework to submit work done during a ReproHack to the [**ReScience**](http://rescience.github.io/) journal.
 
 More details on the [development topics](https://github.com/reprohack/reprohack-2019-06-27/blob/master/hack_topics.md) 
 
