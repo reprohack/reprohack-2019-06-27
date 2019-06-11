@@ -1,5 +1,6 @@
 ---
-title: 'Submit new Paper Reproduction'
+name: 'Register new Paper Reproduction'
+about: 'Register details of the paper and your team'
 labels: reproduction
 ---
 
