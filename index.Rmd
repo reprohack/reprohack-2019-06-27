@@ -3,7 +3,7 @@ title: "CarpentryConnect Manchester 2019"
 output:
     html_document:
         theme: flatly
-        css: css.css
+        css: reprohack.css
 params: 
   title: "CarpentryConnect Manchester 2019"
   room_location: "Room 2.15, Kilburn Building, University of Manchester"
@@ -80,7 +80,7 @@ Benefits to authors:
 
 ##### Join us at the ReproHack and get working with other people's material.
 
-Benefits to participants include:
+Benefits to participants:
 
 - **Practical experience in reproducibility** with real published materials and the opportunity to explore different tools and strategies.
 
@@ -90,7 +90,7 @@ Benefits to participants include:
 
 - An appreciation that **reproducibility has community value beyond just the validation of the results**. For example,  access to such materials increases the potential for reuse and understanding of the work.
 
-Benefits to the whole research community:
+**Benefits to the whole research community:**
 
 - Assessment of how reproducible papers are ‘out of the box’.
 
@@ -105,7 +105,7 @@ Benefits to the whole research community:
 
 ##### There’s also opportunity for contributing to ReproHack development. 
 
-Here's a few potential directions: 
+Here's a few potential directions:
 
 - **Reproducible ReproHacks**: Build a toolkit to produce all materials required to run an event
 
@@ -195,11 +195,7 @@ leaflet() %>% addTiles() %>% setView(params$longitude, params$latitude, zoom = 1
   addMarkers(params$longitude, params$latitude)
 ```
 
-### Get in touch
 
-Chat to us on [**gitter**](https://gitter.im/reprohack/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) or email [a.krystalli@sheffield.ac.uk](mailto:a.krystalli@sheffield.ac.uk).
-
-<br>
 
 
 ***
@@ -213,6 +209,18 @@ We've run **two ReproHacks so far** as part of satellite OpenCon events (Berlin 
 
 #### If you would like to host a ReproHack at your institution please get in touch!
 
-<br>
+***
 
+<div class="pull-left">
+
+### Get in touch
+
+Chat to us on [**gitter**](https://gitter.im/reprohack/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) or email [a.krystalli@sheffield.ac.uk](mailto:a.krystalli@sheffield.ac.uk).
+
+</div>
+
+<div class="pull-right">
 <img src="https://www.software.ac.uk/sites/default/files/images/content/SSI_Big300dpi.png" height="100px" width="300px">
+</div>
+
+
