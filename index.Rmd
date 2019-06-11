@@ -193,7 +193,7 @@ leaflet() %>% addTiles() %>% setView(params$longitude, params$latitude, zoom = 1
   addMarkers(params$longitude, params$latitude)
 ```
 
-### get in touch
+### Get in touch
 
 Chat to us on [**gitter**](https://gitter.im/reprohack/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) or email [a.krystalli@sheffield.ac.uk](mailto:a.krystalli@sheffield.ac.uk).
 
