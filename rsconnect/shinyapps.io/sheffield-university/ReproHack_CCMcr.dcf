@@ -1,0 +1,10 @@
+name: ReproHack_CCMcr
+title: ReproHack Carpentry Connect Manchester
+username:
+account: sheffield-university
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 975836
+bundleId: 2145683
+url: https://sheffield-university.shinyapps.io/ReproHack_CCMcr/
+when: 1560265780.25376

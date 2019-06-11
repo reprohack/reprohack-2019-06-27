@@ -1,7 +1,9 @@
 ---
+title: "CarpentryConnect Manchester 2019"
 output:
     html_document:
-        theme: simplex
+        theme: flatly
+        css: css.css
 params: 
   title: "CarpentryConnect Manchester 2019"
   room_location: "Room 2.15, Kilburn Building, University of Manchester"
@@ -43,9 +45,9 @@ if(!is.null(params$registration_url)){
 
 # **Welcome `r emo::ji("wave")` **
 
-##### We are all excited by the progress made by many authors to **make their papers reproducible by publishing associated code and data**. 
+We are all excited by the progress made by many authors to **make their papers reproducible by publishing associated code and data**. 
 
-##### We know how challenging it can be so we **want to showcase the value of the practice**, both for original authors and as a learning experience for those who attempt to reproduce the work.
+We know how challenging it can be so we **want to showcase the value of the practice**, both for original authors and as a learning experience for those who attempt to reproduce the work.
 
 
 ## **Event format**:
@@ -111,7 +113,7 @@ Here's a few potential directions:
 
 - **ReScience Submission Templates**: improvements in reproducbility might open the door for deeper treatment of materials and potentially moving towards replications. It would be great to provide a framework to submit work done during a ReproHack to the [**ReScience**](http://rescience.github.io/) journal.
 
-More details on the development topics can be found [here]()
+More details on the [development topics](https://github.com/reprohack/reprohack-2019-06-27/blob/master/hack_topics.md) 
 
 <br>
 
