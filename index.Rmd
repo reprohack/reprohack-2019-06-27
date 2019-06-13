@@ -13,7 +13,7 @@ params:
   date: "27th June 2019"
   time: "9.30am-15:30pm"
   bannerurl: "https://www.software.ac.uk/sites/default/files/CCmcrlogo.png"
-  registration_url: null
+  registration_url: https://www.eventbrite.co.uk/e/carpentryconnect-manchester-2019-tickets-48832239543
   hackpad_url: https://hackmd.io/@U2KSpBasRLqM0fN-YALVrw/r1LTia9RV/edit
   submission_url: https://forms.gle/m7CEp59ekDkmiyP69
   submission_form_title: ReproHack Paper Submission Form - CarpentryConnect Mcr19
@@ -34,7 +34,7 @@ runtime: shiny
 
 ```{r, echo = F, results='asis'}
 if(!is.null(params$registration_url)){
-  cat(paste0("### [**REGISTER**](params$registration_url)"))
+  cat(paste0("### [**REGISTER**](", params$registration_url, ")"))
 }
 ```
 
@@ -108,6 +108,8 @@ Benefits to participants:
 Here's a few potential directions:
 
 - **Reproducible ReproHacks**: Build a toolkit to produce all materials required to run an event
+
+- **Remote ReproHacks**: [_discussion topic_] Can we run a ReproHack remotely?
 
 - **Ability to sample from the literature.**: A call for papers doesn’t scale well and biases any data on reproducibility generated. It would be great to have a tool to sample the literature for papers to reproduce.
 
