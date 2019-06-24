@@ -6,19 +6,19 @@ labels: reproduction
 
 # Paper title:
 
-## description:
+## Description:
+<!-- Have a quick look at the paper and include a very brief description -->
 
-edit with description
+## Participants
+- name [@twitter.handle/github.username] (<twitter/github_profile_URL>)
 
-## participants
-- name [@ twitter.handle] (twitter profile URL)
-
-## resources
-
-- **github URL:**
+## Resources
 
 - **paper URL:** 
 
 - **data URL:** 
 
 - **code URL:** 
+
+- **reproduction/replication URL:**
+<!-- Include URLs to any materials you produce during the ReproHack -->
