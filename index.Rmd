@@ -19,6 +19,7 @@ params:
   submission_form_title: ReproHack Paper Submission Form - CarpentryConnect Mcr19
 runtime: shiny
 ---
+
 ![](`r params$bannerurl`)
 
 # **ReproHack @ `r params$title`**
@@ -145,6 +146,21 @@ library("shiny")
 library(googlesheets)
 ```
 
+```{r, echo=FALSE}
+print_contact_links <- function(responses, i){
+  row <- responses[i, ]
+  twitter <- if(!is.na(row[,"Twitter handle (optional)"])){
+  twitter_url <- paste0("https://twitter.com/", gsub(" *@ *", "", row[,"Twitter handle (optional)"]))
+  paste0("[<i class='fa fa-twitter'/>](", twitter_url,")")}else{NULL}
+  
+  github <- if(!is.na(row[,"GitHub username (optional)"])){
+  github_url <- paste0("https://github.com/", gsub(" *@ *", "", row[,"GitHub username (optional)"]))
+  paste0("[<i class='fa fa-github'/>](", github_url,")")}else{NULL}
+  
+  return(paste(twitter, github))
+}
+```
+
 
 ```{r, message=FALSE, results='asis', warning=FALSE,  echo=FALSE}
 responses_gs <- gs_title(paste(params$submission_form_title, "(Responses)"))
@@ -158,7 +174,7 @@ for(i in 1:nrow(responses)){
     cat('\n')
     cat("### **", i,". ", as.character(responses[i, "Paper title"]), "**", "\n", "\n", sep = "")
     cat("**", gsub("\n", "", gsub("[*]", "", as.character(responses[i, "Paper citation"]))), "\n**", "\n", "\n", sep = "")
-    cat("##### *submitted by ", as.character(responses[i, "Name"]),"*", "\n")
+    cat("##### *submitted by ", as.character(responses[i, "Name"]),  print_contact_links(responses, i), "*", "\n")
     cat('\n')
     cat('\n')
     cat("**Why should we attempt to reproduce this paper?**", "\n", "\n")
