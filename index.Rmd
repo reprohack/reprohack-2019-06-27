@@ -126,7 +126,7 @@ Keep track of discussions and links to any outputs from our sessions on the even
 # **PROPOSE**
 ### **Nominate a paper for Reproduction:**
 
-We invite nominations for papers that have both associated **code** and **data** publicly available. We also encourage analyses based on open source tools as we cannot guarantee participant will have access to specialised licenced software.
+We invite nominations for papers that have both associated **code** and **data** publicly available. We also encourage analyses based on open source tools as we cannot guarantee participants will have access to specialised licenced software.
 
 
 
