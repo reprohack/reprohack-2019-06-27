@@ -1,103 +1,119 @@
 
-![](https://d3n8a8pro7vhmx.cloudfront.net/righttoresearch/pages/1462/features/original/OpenCon_2017_London_-_NB_Banner.png?1505763567)
+![](https://www.software.ac.uk/sites/default/files/CCmcrlogo.png)
 
 
-# Welcome to the **#CarpentryConnect 2018 #ReproHack**!
-
-***
-
-<br>
-
-
-> ### ***Check out some of our outputs and discussions*** [**here**](https://hackmd.io/@U2KSpBasRLqM0fN-YALVrw/r1LTia9RV/edit) 
-
-<br>
-
-
-[![Join the chat at https://gitter.im/OpenCon-London/OpenCon_London-Doathon](https://badges.gitter.im/OpenCon-London/OpenCon_London-Doathon.svg)](https://gitter.im/OpenCon-London/OpenCon_London-Doathon?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-
-<br>
+# Welcome to the **#CarpentryConnect 2019 #ReproHack**!
 
 #### **27 June 2019, 9.30am - 3.30pm**
 ##### [**Room 2.15, Kilburn Building, University of Manchester**](http://www.cs.manchester.ac.uk/about-us/find-us/)
 ###### [***Oxford Rd, Manchester M13 9PL***](https://goo.gl/maps/7zAo98pSzB82)
 
+[![Gitter](https://badges.gitter.im/reprohack/community.svg)](https://gitter.im/reprohack/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+***
+
+
+
 <br>
 
-### [**REGISTER**](https://www.eventbrite.co.uk/e/opencon-London-hackathon-tickets-28890667765)
+We are all excited by the progress made by many authors to **make their papers reproducible by publishing associated code and data**. 
 
+We know how challenging it can be so we **want to showcase the value of the practice**, both for original authors and as a learning experience for those who attempt to reproduce the work.
 
-<br>
-
+It's imperative to note that  **ReproHacks are by no means an attempt to criticise or discredit work**. We see reproduction as **beneficial scientific activity in itself**, with useful outcomes for authors and valuable learning experiences for the participants and the research community as a whole.
 
 
 ***
 
-# Carpentry Connect ReproHack 2019
-
 ## **Two ways to get involved:**
 
-### **[Nominate a paper](https://forms.gle/aXjU4g3mVmpPJe6j7)**
+### **[Nominate a paper](https://forms.gle/m7CEp59ekDkmiyP69)**
 
-We invite nominations **from anyone** and **for any type of open project**. For the #Reprohack, we especially invite authors that would like to **test one of their own papers!** Either way, we encourage proponents to seek consent from the original authors for their nominations. 
+We invite nominations for papers that have both associated **code** and **data** publicly available. We also encourage analyses based on open source tools as we cannot guarantee participants will have access to specialised licenced software.
 
-[**Current list of proposed papers and projects**](https://annakrystalli.shinyapps.io/OpenConLondon_Doathon/)
+[**Current list of proposed papers and projects**](https://sheffield-university.shinyapps.io/ReproHack_CCMcr/)
 
 <br>
 
 
-### [**Register as a participant**](https://www.eventbrite.co.uk/e/opencon-london-2017-hackathon-tickets-38843068664)
+### [**Register as a participant**](https://www.eventbrite.co.uk/e/carpentryconnect-manchester-2019-tickets-48832239543)
 
 Join us at the hack to **dig into exciting science**, learn more about **reproducibility**, working with **other people's code and data** and more!
+
+<br>
+
+There’s also opportunity for contributing to ReproHack development. Here's a few potential directions:
+
+- **Reproducible ReproHacks**: Build a toolkit to produce all materials required to run an event
+
+- **Remote ReproHacks**: [_discussion topic_] Can we run a ReproHack remotely?
+
+- **Ability to sample from the literature.**: A call for papers doesn’t scale well and biases any data on reproducibility generated. It would be great to have a tool to sample the literature for papers to reproduce.
+
+- **ReScience Submission Templates**: improvements in reproducibility might open the door for deeper treatment of materials and potentially moving towards replications. It would be great to provide a framework to submit work done during a ReproHack to the [**ReScience**](http://rescience.github.io/) journal.
+
+More details on the [development topics](https://github.com/reprohack/reprohack-2019-06-27/blob/master/hack_topics.md) 
+
+<br>
+
 
 
 ***
 
 ## **On the day**
 
-This is the master repo of the hack. We'll collect information on the teams and projects through [issues](https://github.com/OpenCon-London/OpenCon_London-Doathon/issues) in this repo. 
+This is the master repo of the hack. We'll collect information on the teams and projects through [issues](https://github.com/reprohack/reprohack-2019-06-27/issues/) in this repo. We'll track of discussions and collaborative notes on the event [**hackpad**](https://hackmd.io/@U2KSpBasRLqM0fN-YALVrw/r1LTia9RV/edit)
 
-As all OpenCon events, we strive to make this event open and inclusive to all. As such the event is governed by the [OpenCon Code of Conduct](http://www.opencon2017.org/code_of_conduct) and you should read it before participating. By participating, you are expected to uphold this code.
+As all Carpentries events, we strive to make this event open and inclusive to all. As such the event is governed by the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) and you should read it before participating. By participating, you are expected to uphold this code.
 
 
 
 ### **Authors**
 
-We encourage authors that are keen, to be available for participants to reach out to for guidance or even just to say hello! We've set up a [**gitter channel**](https://gitter.im/OpenCon-London/OpenCon_London-Doathon) as a public lobby where you can also reach the organisers prior to the hack. You can start discussions through **issues** in each project repo and we've also set up a public, collaborative [**hackpad**](https://public.etherpad-mozilla.org/p/OpenConLondon2017_Doathon).
+We encourage authors that are keen, to be available for participants to reach out to for guidance or even just to say hello! We've set up a [**gitter channel**](https://gitter.im/reprohack/community) as a public lobby where you can also reach the organisers prior to the hack. You can also start discussions or add comments through our collaborative [**hackpad**](https://hackmd.io/@U2KSpBasRLqM0fN-YALVrw/r1LTia9RV/edit).
 
 ### **Participants**
 
-#### **1. Project and team selection**
+#### **Introduction & Welcome**
 
-We'll start by discussing the [**papers and projects proposed**](https://annakrystalli.shinyapps.io/OpenConLondon_Doathon/) and form into teams. We want to use github to keep track of the materials produced during the hack so we encourage teams to ensure they have someone with github skills on board. 
+#### **1. Project review and team formation**
 
-
-#### **2. Create project github repo (if applicable)**
-
- Individuals teams are requested to **create their own github repo** from which to coordinate individual projects.
-
-#### **3. Register your project**
-- Copy the text from the [**project registration issue template**](https://raw.githubusercontent.com/annakrystalli/OpenConBerlin_ReproHack/master/.github/project_reg_tmpl.md).
-- [**Create** a new issue](https://github.com/OpenCon-London/OpenCon_London-Doathon/issues/new) in **this** (the OpenCon London ReproHack) repo.
-- **Paste** text copied from template.
-- **Complete details** and save.
-
-#### **4. Work on your project!**
-
-Collect any materials generated during the hack in your **teams's github repo**. If you're trying to reproduce a paper, we recommend you do this in a **jupyter notebook**, **.rmarkdown** or any other literate programming document type. Here's an examples of such an [**output**](https://rawgit.com/opetchey/RREEBES/master/Beninca_etal_2008_Nature/report/report.html), the [raw Rmd code](https://raw.githubusercontent.com/opetchey/RREEBES/master/Beninca_etal_2008_Nature/report/report.Rmd) (link to [.Rdm file](https://github.com/opetchey/RREEBES/blob/master/Beninca_etal_2008_Nature/report/report.Rmd)) used to create it and the github [directory](https://github.com/opetchey/RREEBES/tree/master/Beninca_etal_2008_Nature) containing materials associated with the reproduction.
-
-### **5. Leave feedback on the ReproHack papers**
-
-Please complete the [**Reproducibility feedback form**](https://goo.gl/forms/EP8h3NydHkLTo8Hk2)
+We'll start with a brief review of the [**papers proposed**](https://sheffield-university.shinyapps.io/ReproHack_CCMcr/) and [hack topics](https://github.com/reprohack/reprohack-2019-06-27/blob/master/hack_topics.md) and then form into teams. 
 
 
+#### **2. Select and register your project**
+
+- In your teams **decide which paper/hack topic** you wish to work on.
+- To register your team and paper / topic [**open** a new issue](https://github.com/reprohack/reprohack-2019-06-27/issues/new/choose) in this repository using the issue templates provided.
+- **Complete details** and create.
+- Please also add each individual participants details in the relevant section of the [**hackpad**](https://hackmd.io/@U2KSpBasRLqM0fN-YALVrw/r1LTia9RV/edit) so we have a complete list of participants.
+
+#### **3. Work on your project!**
+
+Follow any instructions associated with the papers and try and reproduce the work. As you work through your paper, keep in mind the main points on which feedback to the authors will provided, **Reproducibility**, **Documentation** and **Reusability**. It might help to have a look at the [feedback form](https://forms.gle/8KZ95MSvT4voU32FA) before you begin and keep notes during. Feel free to use the event hackpad for that.
+
+We'll **come together during the day** to discuss progress and troubleshoot any sticking points. 
+
+Should you finish reproducing your paper quickly, you might want to consider attempting to **replicate** the results, for example, if the code is in R consider translating the analysis to python and examining whether you are getting the same results. Such a contribution would be appropriate for publication in the **ReScience C** journal! Have a look at the journals [website](http://rescience.github.io/write/) for further details. 
+
+Should you produce any additional materials relating to your reproduction during the session, we ask that you **share it publicly** and **update your team's issue with any relevant URLs**.
+
+#### **4. Leave feedback for the authors**
+
+Please complete the [**Reproducibility feedback form**](https://forms.gle/8KZ95MSvT4voU32FA). Please also remember to be kind and constructive. Reproducibilty is hard and all authors submitting their papers have been incredibly brave. 
+
+
+#### **5. Feedback to the group on your experiences**
+
+You can use the hackpad to take notes and summarise your experiences.
+
+#### **Closing Remarks**
+
+***
 
 #### Collaborative note taking:
 
-Feel free to contribute thoughts on our collaborative [**hackpad**](https://public.etherpad-mozilla.org/p/OpenConLondon2017_Doathon)
-
-***N.B. Please sign in to each etherpad, within the pad and in the upper right corner to link your name to a colour.***
+Feel free to contribute any additional thoughts on our collaborative [**hackpad**](https://hackmd.io/@U2KSpBasRLqM0fN-YALVrw/r1LTia9RV/edit). These can help form the basis for a blogpost on the event.
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
