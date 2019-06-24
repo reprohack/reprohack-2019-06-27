@@ -84,13 +84,13 @@ We'll start with a brief review of the [**papers proposed**](https://sheffield-u
 #### **2. Select and register your project**
 
 - In your teams **decide which paper/hack topic** you wish to work on.
-- To register your team and paper / topic [**open** a new issue](https://github.com/reprohack/reprohack-2019-06-27/issues/new/choose) in this repository using the issue templates provided.
+- To register your team and paper / topic [**open a new issue**](https://github.com/reprohack/reprohack-2019-06-27/issues/new/choose) in this repository using the issue templates provided.
 - **Complete details** and create.
 - Please also add each individual participants details in the relevant section of the [**hackpad**](https://hackmd.io/@U2KSpBasRLqM0fN-YALVrw/r1LTia9RV/edit) so we have a complete list of participants.
 
 #### **3. Work on your project!**
 
-Follow any instructions associated with the papers and try and reproduce the work. As you work through your paper, keep in mind the main points on which feedback to the authors will provided, **Reproducibility**, **Documentation** and **Reusability**. It might help to have a look at the [feedback form](https://forms.gle/8KZ95MSvT4voU32FA) before you begin and keep notes during. Feel free to use the event hackpad for that.
+Follow any instructions/documentation associated with the papers and try and reproduce the work. As you work through your paper, keep in mind the main points on which feedback to the authors will provided, **Reproducibility**, **Documentation** and **Reusability**. It might help to have a look at the [feedback form](https://forms.gle/8KZ95MSvT4voU32FA) before you begin and keep notes during. Feel free to use the event hackpad for that.
 
 We'll **come together during the day** to discuss progress and troubleshoot any sticking points. 
 
@@ -100,7 +100,7 @@ Should you produce any additional materials relating to your reproduction during
 
 #### **4. Leave feedback for the authors**
 
-Please complete the [**Reproducibility feedback form**](https://forms.gle/8KZ95MSvT4voU32FA). Please also remember to be kind and constructive. Reproducibilty is hard and all authors submitting their papers have been incredibly brave. 
+Please complete the [**Reproducibility feedback form**](https://forms.gle/8KZ95MSvT4voU32FA). Please also remember to be kind and constructive. Reproducibilty is hard and all authors submitting their papers have been incredibly brave. Here's an [example](https://github.com/annakrystalli/write-ups/blob/master/assets/OpenCon_ReproHack%20feedback_form.pdf) of feedback to authors.
 
 
 #### **5. Feedback to the group on your experiences**
