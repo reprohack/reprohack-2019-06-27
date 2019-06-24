@@ -74,7 +74,7 @@ We encourage authors that are keen, to be available for participants to reach ou
 
 ### **Participants**
 
-#### **Introduction & Welcome**
+#### **Introduction & Welcome** [slides](https://hackmd.io/@annakrystalli/rkHxuGAyB)
 
 #### **1. Project review and team formation**
 
