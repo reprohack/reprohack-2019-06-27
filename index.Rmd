@@ -156,8 +156,13 @@ print_contact_links <- function(responses, i){
   github <- if(!is.na(row[,"GitHub username (optional)"])){
   github_url <- paste0("https://github.com/", gsub(" *@ *", "", row[,"GitHub username (optional)"]))
   paste0("[<i class='fa fa-github'/>](", github_url,")")}else{NULL}
+
+  feedback <- if(row[, "Would you like to receive a copy of any feedback on the paper?"] == "Yes"){
+    "<i class='fa fa-comment-dots'/>"}else{NULL}
+  public <- if(row[,"Can feedback on your paper be made public?"] == "Yes"){
+    "<i class='fa fa-globe'/>"}else{NULL}
   
-  return(paste(twitter, github))
+  return(paste(twitter, github, feedback, public))
 }
 ```
 
