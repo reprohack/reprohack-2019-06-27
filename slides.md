@@ -65,8 +65,8 @@ Stitch!
 
 
 2. **Select and register your project**
-    + Register your team and paper / topic by [**opening a new issue**](https://github.com/reprohack/reprohack-2019-06-27/issues/new/choose).
-    + Add your details to the [**hackpad**](https://hackmd.io/@U2KSpBasRLqM0fN-YALVrw/r1LTia9RV/edit).
+
+
 3. **Work on your project!**
 
 ---
@@ -133,4 +133,56 @@ Event governed by [**Carpentries Code of Conduct**](https://docs.carpentries.org
 
 ---
 
+### Paper / hack topic review
 
+
+#### **papers**: bit.ly/CCMcr19-ReproHack-papers
+#### **topics**: bit.ly/CCMcr19-ReproHack-topics
+
+---
+
+### Team formation / project registration
+
++ Fine to work individually
++ Register your team and paper / topic by [**opening a new issue**](https://github.com/reprohack/reprohack-2019-06-27/issues/new/choose). <bit.ly/CCMcr19-ReproHack>
++ Add your details to the [**hackpad**](https://hackmd.io/@U2KSpBasRLqM0fN-YALVrw/r1LTia9RV/edit).
+
+---
+
+### Mid-point regroup
+
+- Briefly describe the approach to reproducibility the paper has taken.
+- Anything in particular you like about the paper's approach?
+- Anything you're having difficulty with?
+
+---
+
+### Feedback to authors
+
+- Please complete the feedback form for authors <bit.ly/CCMcr19-ReproHack-feedback>
+- Feel free to take notes on the hackpad
+
+---
+
+### Final regroup
+
+- So, how did you get on? 
+- Final comments
+- One thing you liked, one thing that can be improved (use post it's if you prefer)
+
+---
+
+### Further Resources
+
+- [**The Turing Way**](https://the-turing-way.netlify.com/introduction/introduction): a lightly opinionated guide to reproducible data science.
+- [**Packaging data analytical work reproducibly using R (and friends)**](https://peerj.com/preprints/3192/): how researchers can improve the reproducibility of their work using research compendia based on R packages and related tools
+
+---
+
+# THANKS! :pray: 
+
+- ### Thank you PARTICIPANTS for coming
+- ### Thank you AUTHORS for submitting
+
+
+# 
