@@ -41,6 +41,7 @@ if(!is.null(params$registration_url)){
 
 [![Gitter](https://badges.gitter.im/reprohack/community.svg)](https://gitter.im/reprohack/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+##### [workshop repository](https://github.com/reprohack/reprohack-2019-06-27): containing details for participants
 
 ***
 
