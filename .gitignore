@@ -5,3 +5,4 @@
 .httr-oauth
 dev.R
 *.html
+.DS_Store
