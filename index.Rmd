@@ -12,7 +12,7 @@ params:
   longitude: -2.2341808
   date: "27th June 2019"
   time: "9.30am-15:30pm"
-  bannerurl: "https://www.software.ac.uk/sites/default/files/CCmcrlogo.png"
+  bannerurl: "CCmcrlogo.png"
   registration_url: https://www.eventbrite.co.uk/e/carpentryconnect-manchester-2019-tickets-48832239543
   hackpad_url: https://hackmd.io/@U2KSpBasRLqM0fN-YALVrw/r1LTia9RV/edit
   submission_url: https://forms.gle/m7CEp59ekDkmiyP69
